@@ -10,10 +10,10 @@ public class Day2 {
         int pivotIndex = Day2.findPivotIndex(new int[]{1,7,3,6,5,6});
         System.out.println("Pivot Index :"+pivotIndex);
 
-        System.out.println("List of kids with candies: "+ Day2.kidsWithCondies(new int[]{2,3,5,1,3},3));
+        System.out.println("List of kids with candies: "+ Day2.kidsWithCandies(new int[]{2,3,5,1,3},3));
     }
 
-    private static List<Boolean> kidsWithCondies(int[] candies, int extraCandies) {
+    private static List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
         Boolean[] kids = new Boolean[candies.length];
         int max =0;
         for (int candy : candies) {
