@@ -11,6 +11,8 @@ build/
 out/
 .next/
 
+target/
+
 # 3. Environment Secrets
 # IMPORTANT: Protect your API keys and local secrets
 .env
