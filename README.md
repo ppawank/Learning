@@ -8,6 +8,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/ppawank/Learning/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1797-design-authentication-manager](https://github.com/ppawank/Learning/tree/main/1797-design-authentication-manager/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -17,4 +18,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1797-design-authentication-manager](https://github.com/ppawank/Learning/tree/main/1797-design-authentication-manager/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/ppawank/Learning/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
