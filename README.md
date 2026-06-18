@@ -4,10 +4,12 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/ppawank/Learning/tree/main/0141-linked-list-cycle/) | Easy |
 | [1797-design-authentication-manager](https://github.com/ppawank/Learning/tree/main/1797-design-authentication-manager/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/ppawank/Learning/tree/main/0141-linked-list-cycle/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/ppawank/Learning/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1797-design-authentication-manager](https://github.com/ppawank/Learning/tree/main/1797-design-authentication-manager/) | Medium |
 ## Design
@@ -21,5 +23,6 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/ppawank/Learning/tree/main/0141-linked-list-cycle/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/ppawank/Learning/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
