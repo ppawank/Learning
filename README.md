@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/ppawank/Learning/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ppawank/Learning/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/ppawank/Learning/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [1797-design-authentication-manager](https://github.com/ppawank/Learning/tree/main/1797-design-authentication-manager/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -13,6 +14,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ppawank/Learning/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/ppawank/Learning/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ppawank/Learning/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/ppawank/Learning/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/ppawank/Learning/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1797-design-authentication-manager](https://github.com/ppawank/Learning/tree/main/1797-design-authentication-manager/) | Medium |
 ## Design
@@ -29,5 +31,6 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ppawank/Learning/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/ppawank/Learning/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ppawank/Learning/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/ppawank/Learning/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/ppawank/Learning/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
