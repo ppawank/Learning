@@ -54,7 +54,7 @@ public class Day3 {
         for (int i = 1; i < flowerbed.length; i++) {
             prevIndex = i - 1;
             nextIndex = i + 1;
-            if (prevIndex >= 0 && nextIndex < flowerbed.length) {
+            if (nextIndex < flowerbed.length) {
                 if (flowerbed[i] == 0 && flowerbed[prevIndex] == 0 && flowerbed[nextIndex] == 0) {
                     n--;
                     flowerbed[i] = 1;

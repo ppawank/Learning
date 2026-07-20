@@ -28,6 +28,13 @@ public class Day4 {
         return nums.toString();
     }
 
+    private boolean uniqueOccurrences_1(int[] nums) {
+        Map<Integer, Integer> map = new HashMap<>();
+        for (int num : nums) {
+            map.merge(num, 1, Integer::sum);
+        }
+        return map.size() == new HashSet<>(map.values()).size();
+    }
     private boolean uniqueOccurrences(int[] nums) {
         boolean result = false;
         Map<Integer, Integer> map = new HashMap<>();
@@ -35,7 +42,7 @@ public class Day4 {
             if (!map.containsKey(num)) {
                 map.put(num, 1);
             } else {
-                map.put(num, map.get(num) + 1);
+               map.put(num, map.getOrDefault(num, 0) + 1);
             }
         }
         Set<Integer> set = new HashSet<>();
